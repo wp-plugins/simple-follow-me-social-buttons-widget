@@ -5,9 +5,9 @@ Requires at least: 3.8
 Tested up to: 3.9.1
 Stable tag: 1.0
 License: GPLv2 or later
-License URI: URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Widget to add some of the most popular follow me social buttons. Uses font icons, ready for Retina Display.
+Add follow me social buttons. Uses font icons, ready for Retina Display.
 
 
 == Description ==
