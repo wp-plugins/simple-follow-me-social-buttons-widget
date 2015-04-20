@@ -3,7 +3,7 @@ Contributors: lucymtc
 Donate link: http://wptips.me/simple-follow-social-buttons-widget/
 Tags: social,follow me,buttons,twitter,facebook,pinterest,google plus,linkedin,wordpress,rss,github,youtube,vimeo,instagram,email,sound cloud,itunes,bloglovin,flickr,tumblr,hubpages,deviantart,feedly,slideshare,vine,goodreads,vk,sanscritique,yelp,lastfm,trover,xing,behance,specificfeeds,stackoverflow,blogger,reddit,500px.com,remind,dribbble,picasa,rdio,skype,stumbleupon,foursquare,ello,openclipart,stitcher,canalcocina,kukers,tastespotting,foodgawker,tripadvisor,scoop.it,twitch,tunein,steam,scribd,ravelry,issuu,etsy,anobii,myspace,blog-connect,weibo,fotocommunity,dawanda,aboutme,eyeem,notonthehighstreet,odnoklassniki,font icons,retina ready
 Requires at least: 3.8
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 3.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
